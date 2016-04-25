@@ -1,0 +1,4 @@
+pkg
+.jbundler
+Jarfile.lock
+Gemfile.lock
