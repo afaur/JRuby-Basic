@@ -6,6 +6,13 @@ require 'jbundler'
 
 java_import "org.yaml.snakeyaml.Yaml"
 
+# solrj stuff
+java_import "org.apache.solr.client.solrj.SolrServer"
+java_import "org.apache.solr.client.solrj.embedded.EmbeddedSolrServer"
+java_import "org.apache.solr.core.CoreContainer"
+java_import "org.apache.solr.core.SolrConfig"
+java_import "org.apache.solr.core.SolrCore"
+
 # Alternate import syntax
 #java_import Java::org.yaml.snakeyaml.Yaml
 
