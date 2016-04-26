@@ -1,4 +1,4 @@
-require './lib/YamlReader.rb'
+require './lib/classes/YamlReader.rb'
 
 a = YamlReader.new('./config/test.yaml')
 
