@@ -5,4 +5,4 @@ jruby to the rescue.
 - rvm install jruby-9
 - jruby -S gem install jbundler
 - jbundle install
-- jruby main.rb
+- ./bin/run

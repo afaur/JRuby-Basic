@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source ./config/settings.sh
+
+jruby ./lib/main.rb
