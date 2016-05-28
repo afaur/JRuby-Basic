@@ -16,15 +16,15 @@ cd JRuby-Basic
 ### RVM
 
 ~~~
-rvm install jruby-9
+rvm install jruby-9.0.5.0
 ~~~
 
 ### rbenv
 
 ~~~
 # with rbenv
-rbenv install jruby-9.0.0.0
-rbenv local jruby-9.0.0.0
+rbenv install jruby-9.0.5.0
+rbenv local jruby-9.0.5.0
 ~~~
 
 ## Running
